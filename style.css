@@ -1,23 +1,25 @@
-header {
+nav {
     display: flex;
-    align-items:center;
-    justify-content: space-between;
-    max-width: auto;
+    flex-wrap: wrap;
     flex-direction: row;
-}
-
-header p {
-    
-}
-
-.header-left {
-    display: flex;
     align-items: center;
-    flex-direction: column;
-    float:right;
+    justify-content: space-between;
+    margin: 1.75rem 0;
+    width: 100%;
 }
 
-.header-right {
+
+.nav-sub-left {
+    display: flex;
+    flex-direction: column;
+    padding: 0px;
+    margin: 0px;
+}
+
+.nav-sub-left img {
+    margin-right: 10px;
+}
+.nav-sub-right {
 
 }
 
