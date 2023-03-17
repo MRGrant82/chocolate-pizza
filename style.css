@@ -1,58 +1,88 @@
-nav {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-    margin: 1.75rem 0;
-    width: 100%;
-}
-
-
-.nav-sub-left {
-    display: flex;
-    flex-direction: column;
-    padding: 0px;
-    margin: 0px;
-}
-
-.nav-sub-left img {
-    margin-right: 10px;
-}
-.nav-sub-right {
-
-}
-
-body {
-    max-width: 90vw;
-}
-
-.container {
-    width: 100%;
-    max-width: auto;
-
-}
-
-.resipe-container {
-
-}
-
-#first-half {
-
-}
-
-#second-half {
-
-}
-
-.about-me-container {
-
-} 
-
-main {
-
-}
-
-footer {
-
-}
+/* Set box-sizing to border-box to include padding and borders in element widths */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Flex container for nav bar */
+  .nav {
+  
+  }
+  
+  /* Flex container for main content */
+  main {
+  
+  }
+  
+  /* Flex container for recipe and about me sections */
+  .container {
+  
+  }
+  
+  /* Flex item for recipe section */
+  .recipe-container {
+  
+  }
+  
+  /* Flex item for about me section */
+  .about-me-container {
+  
+  }
+  
+  /* Flex container for footer */
+  .footer {
+  
+  }
+  
+  /* Flex item for logo in nav bar */
+  .nav img {
+  
+  }
+  
+  /* Flex items for text in nav bar */
+  .nav-sub-left h1 {
+  
+  }
+  
+  .nav-sub-left p {
+  
+  }
+  
+  /* Flex items for social media icons in nav bar */
+  .nav-sub-right img {
+  
+  }
+  
+  /* Flex item for chocolate pizza image */
+  .container img {
+  
+  }
+  
+  /* Flex items for text in recipe section */
+  .recipe-container li {
+  
+  }
+  
+  .recipe-container ul {
+  
+  }
+  
+  /* Flex item for about me section */
+  .about-me-container img {
+  
+  }
+  
+  .about-me-container p {
+  
+  }
+  
+  .about-me-container button {
+  
+  }
+  
+  /* Flex item for small logo in footer */
+  .footer img {
+  
+  }
+  
