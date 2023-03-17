@@ -22,7 +22,8 @@
   
   /* Flex item for recipe section */
   .recipe-container {
-  
+    background-image:url('img/list-bg.png')
+
   }
   
   /* Flex item for about me section */
