@@ -20,9 +20,16 @@
   
   }
   
+.stripe-background {
+    background-image:url('img/hr-img.png');
+    background-repeat:repeat;
+    height: 10px;
+    
+}
+
   /* Flex item for recipe section */
   .recipe-container {
-    background-image:url('img/list-bg.png')
+    background-image:url('img/list-bg.png');
 
   }
   
