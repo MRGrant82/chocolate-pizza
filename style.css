@@ -1,0 +1,56 @@
+header {
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+    max-width: auto;
+    flex-direction: row;
+}
+
+header p {
+    
+}
+
+.header-left {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    float:right;
+}
+
+.header-right {
+
+}
+
+body {
+    max-width: 90vw;
+}
+
+.container {
+    width: 100%;
+    max-width: auto;
+
+}
+
+.resipe-container {
+
+}
+
+#first-half {
+
+}
+
+#second-half {
+
+}
+
+.about-me-container {
+
+} 
+
+main {
+
+}
+
+footer {
+
+}
